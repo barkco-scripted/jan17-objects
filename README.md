@@ -17,7 +17,7 @@ Add this to the to HTML section:
 Add this to the Javascript section:
 ```
 var roster =  { 
-  students: ["Alma", "Celina", "Daniel", "Imani", "Jashmine", "Johanny", "Rayshawn", "Richard",  "Wensael"],
+  students: ["Alma", "Celina", "Daniel", "Imani", "Jashmine", "Johanny", "Raishan", "Richard",  "Wensael"],
   teachers: ["Ali", "Alvin", "Becky", "Erin", "Ray"]
 };
 
