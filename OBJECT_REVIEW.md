@@ -14,17 +14,20 @@ data = {dog_name: "bowie"}
 
 Access key/value pairs in an object
 ```
-data['dog_name'] // bowie
+Bracket Notation: data['dog_name'] // bowie
+Dot Notation: data.dog_name // bowie
 ```
 
 Updating an object
 ```
-data['dog_name'] = "BOWIE"
+Bracket Notation: data['dog_name'] = "BOWIE"
+Dot Notation: data.dog_name = "BOWIE"
 ```
 
 Adding keys to an object
 ```
-data['dog_nickname'] = "Bobo"
+Bracket Notation: data['dog_nickname'] = "Bobo"
+Dot Notation: data.dog_nickname = "Bobo"
 ```
 
 Enumerating the keys & values in an object:
